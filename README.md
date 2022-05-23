@@ -1,4 +1,4 @@
-# EX 06:SYNCHORNOUS COUNTERS:UP COUNTER AND DOWN COUNTER:
+# EX 06:SYNCHORNOUS COUNTERS:UP COUNTER AND DOWN COUNTER
 ## AIM: 
 To implement 4 bit up and down counters and validate  functionality.
 ## HARDWARE REQUIRED:  
